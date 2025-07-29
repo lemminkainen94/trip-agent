@@ -74,6 +74,7 @@ trip-agent/
 
 ## Usage
 
+WARNING: This costs around 1.5USD for a single trip planning and can take up to 20 minutes  
 Run the application using Poetry:
 
 ```bash
@@ -88,7 +89,7 @@ You can also run just the API or UI:
 # Run just the API
 poetry run python main.py --mode api
 
-# Run just the UI
+# Run just the UI (RECOMMENDED)
 poetry run python main.py --mode ui
 ```
 
