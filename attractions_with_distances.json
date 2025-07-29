@@ -1,0 +1,3431 @@
+[
+  {
+    "name": "Christiansborg Palace",
+    "description": "Christiansborg Palace, located on Slotsholmen in Copenhagen, is a historical landmark that stands on the site of Bishop Absalon\u2019s 12th-century fortress ruins. It serves as the seat of the Danish Parliament, the Prime Minister's Office, and the Supreme Court of Denmark. The palace is a unique blend of history and modern-day governance, offering visitors a glimpse into Denmark's rich past and its current political landscape.",
+    "location": {
+      "name": "Slotsholmen",
+      "address": null
+    },
+    "category": "Historical landmark",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1221,
+        "time": 16.6
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1628,
+        "time": 22.1
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1996,
+        "time": 27.2
+      },
+      "Kastellet": {
+        "distance": 2217,
+        "time": 30.6
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1698,
+        "time": 23.5
+      },
+      "Ordrupgaard": {
+        "distance": 11403,
+        "time": 157.9
+      },
+      "Hirschsprung Collection": {
+        "distance": 2044,
+        "time": 28.1
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1590,
+        "time": 22.1
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1091,
+        "time": 14.8
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 790,
+        "time": 10.9
+      },
+      "National Museum of Denmark": {
+        "distance": 526,
+        "time": 7.0
+      },
+      "Puk": {
+        "distance": 605,
+        "time": 8.1
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1256,
+        "time": 17.7
+      },
+      "Reffen": {
+        "distance": 4130,
+        "time": 56.6
+      },
+      "Brass Monkey": {
+        "distance": 2782,
+        "time": 38.1
+      },
+      "Boutique Lize": {
+        "distance": 2617,
+        "time": 36.0
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 687,
+        "time": 9.3
+      },
+      "Jazzhouse": {
+        "distance": 550,
+        "time": 7.4
+      },
+      "Rust": {
+        "distance": 2479,
+        "time": 34.5
+      },
+      "Culture Box": {
+        "distance": 1372,
+        "time": 18.6
+      },
+      "Golden Days Festival": {
+        "distance": 915,
+        "time": 12.6
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 928,
+        "time": 12.8
+      },
+      "Copenhagen Light Festival": {
+        "distance": 907,
+        "time": 12.7
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1687,
+        "time": 23.3
+      },
+      "Christmas in Tivoli": {
+        "distance": 1442,
+        "time": 19.9
+      },
+      "Copenhagen Carnival": {
+        "distance": 1091,
+        "time": 14.8
+      }
+    }
+  },
+  {
+    "name": "Kongens Have (Rosenborg Castle Gardens)",
+    "description": "Kongens Have, also known as Rosenborg Castle Gardens, is Copenhagen\u2019s oldest public park. It features formal parterres, lime-tree alle\u00e9s, and is a tranquil space amidst the bustling city. The park is home to the beautiful Rosenborg Castle and offers a serene environment with benches to relax and enjoy the surroundings.",
+    "location": {
+      "name": "Kongens Have (Rosenborg Castle Gardens)",
+      "address": "\u00d8ster Voldgade 4A, 1350 K\u00f8benhavn, Denmark"
+    },
+    "category": "Park",
+    "visit_duration": "60-90",
+    "opening_hours": {
+      "Monday": "7:00 AM - 10:00 PM",
+      "Tuesday": "7:00 AM - 10:00 PM",
+      "Wednesday": "7:00 AM - 10:00 PM",
+      "Thursday": "7:00 AM - 10:00 PM",
+      "Friday": "7:00 AM - 10:00 PM",
+      "Saturday": "7:00 AM - 10:00 PM",
+      "Sunday": "7:00 AM - 10:00 PM"
+    },
+    "price": "Free",
+    "rating": 4.5,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1221,
+        "time": 16.4
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 695,
+        "time": 9.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 765,
+        "time": 10.5
+      },
+      "Kastellet": {
+        "distance": 1645,
+        "time": 22.5
+      },
+      "Statens Museum for Kunst": {
+        "distance": 467,
+        "time": 6.8
+      },
+      "Ordrupgaard": {
+        "distance": 10172,
+        "time": 141.2
+      },
+      "Hirschsprung Collection": {
+        "distance": 813,
+        "time": 11.4
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1101,
+        "time": 15.3
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1395,
+        "time": 18.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1741,
+        "time": 23.7
+      },
+      "National Museum of Denmark": {
+        "distance": 1594,
+        "time": 21.3
+      },
+      "Puk": {
+        "distance": 1319,
+        "time": 17.7
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1533,
+        "time": 20.9
+      },
+      "Reffen": {
+        "distance": 4385,
+        "time": 59.5
+      },
+      "Brass Monkey": {
+        "distance": 3178,
+        "time": 43.9
+      },
+      "Boutique Lize": {
+        "distance": 3291,
+        "time": 45.6
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 735,
+        "time": 9.9
+      },
+      "Jazzhouse": {
+        "distance": 796,
+        "time": 10.6
+      },
+      "Rust": {
+        "distance": 1880,
+        "time": 26.3
+      },
+      "Culture Box": {
+        "distance": 364,
+        "time": 4.9
+      },
+      "Golden Days Festival": {
+        "distance": 975,
+        "time": 13.2
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 561,
+        "time": 7.6
+      },
+      "Copenhagen Light Festival": {
+        "distance": 807,
+        "time": 11.2
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2638,
+        "time": 36.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 1908,
+        "time": 26.1
+      },
+      "Copenhagen Carnival": {
+        "distance": 1395,
+        "time": 18.9
+      }
+    }
+  },
+  {
+    "name": "Botanisk Have (The Botanical Garden)",
+    "description": "The Botanical Garden is an urban oasis in Copenhagen, featuring Denmark's largest collection of living plants. It offers a serene environment with rare and exotic species, complemented by the garden's historic moat and winding water features. Located just a few steps from N\u00f8rreport Station, it serves as a free public green space for visitors to roam and relax.",
+    "location": {
+      "name": "Botanisk Have (The Botanical Garden)",
+      "address": "A few steps from N\u00f8rreport Station, Copenhagen, Denmark"
+    },
+    "category": "Garden",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 9:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM"
+    },
+    "price": "Free",
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1629,
+        "time": 22.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 687,
+        "time": 9.7
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 796,
+        "time": 10.8
+      },
+      "Kastellet": {
+        "distance": 1947,
+        "time": 27.0
+      },
+      "Statens Museum for Kunst": {
+        "distance": 498,
+        "time": 7.1
+      },
+      "Ordrupgaard": {
+        "distance": 10173,
+        "time": 141.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 793,
+        "time": 11.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1543,
+        "time": 21.5
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1490,
+        "time": 20.5
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1873,
+        "time": 25.9
+      },
+      "National Museum of Denmark": {
+        "distance": 1725,
+        "time": 23.5
+      },
+      "Puk": {
+        "distance": 1414,
+        "time": 19.4
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2061,
+        "time": 28.4
+      },
+      "Reffen": {
+        "distance": 4429,
+        "time": 54.6
+      },
+      "Brass Monkey": {
+        "distance": 3125,
+        "time": 43.1
+      },
+      "Boutique Lize": {
+        "distance": 3237,
+        "time": 44.8
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1022,
+        "time": 14.1
+      },
+      "Jazzhouse": {
+        "distance": 1160,
+        "time": 15.8
+      },
+      "Rust": {
+        "distance": 1650,
+        "time": 22.9
+      },
+      "Culture Box": {
+        "distance": 768,
+        "time": 10.9
+      },
+      "Golden Days Festival": {
+        "distance": 1046,
+        "time": 14.6
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1088,
+        "time": 15.1
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1335,
+        "time": 18.7
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2686,
+        "time": 37.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 2003,
+        "time": 27.7
+      },
+      "Copenhagen Carnival": {
+        "distance": 1490,
+        "time": 20.5
+      }
+    }
+  },
+  {
+    "name": "\u00d8stre Anl\u00e6g Park",
+    "description": "\u00d8stre Anl\u00e6g Park is a picturesque park in the heart of Copenhagen, Denmark, featuring sinuous pathways and water features atop 17th-century ramparts. The park is home to two playgrounds and one of the city\u2019s popular toboggan runs. It also hosts the Hirschsprung Collection and SMK \u2013 the National Gallery of Denmark, which display world-class art.",
+    "location": {
+      "name": "\u00d8stre Anl\u00e6g Park",
+      "address": "Accessible from S\u00f8lvgade, Stockholmsgade, Dag Hammerskjolds All\u00e9 and \u00d8ster Voldgade, Copenhagen, Denmark"
+    },
+    "category": "Park",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Open 24 Hours",
+      "Tuesday": "Open 24 Hours",
+      "Wednesday": "Open 24 Hours",
+      "Thursday": "Open 24 Hours",
+      "Friday": "Open 24 Hours",
+      "Saturday": "Open 24 Hours",
+      "Sunday": "Open 24 Hours"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1996,
+        "time": 27.3
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 765,
+        "time": 10.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 804,
+        "time": 10.9
+      },
+      "Kastellet": {
+        "distance": 1735,
+        "time": 24.0
+      },
+      "Statens Museum for Kunst": {
+        "distance": 320,
+        "time": 4.4
+      },
+      "Ordrupgaard": {
+        "distance": 9863,
+        "time": 136.3
+      },
+      "Hirschsprung Collection": {
+        "distance": 485,
+        "time": 6.7
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1349,
+        "time": 18.7
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2039,
+        "time": 27.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2422,
+        "time": 33.4
+      },
+      "National Museum of Denmark": {
+        "distance": 2274,
+        "time": 31.0
+      },
+      "Puk": {
+        "distance": 1963,
+        "time": 26.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2308,
+        "time": 31.8
+      },
+      "Reffen": {
+        "distance": 4235,
+        "time": 51.8
+      },
+      "Brass Monkey": {
+        "distance": 3674,
+        "time": 50.5
+      },
+      "Boutique Lize": {
+        "distance": 3786,
+        "time": 52.2
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1510,
+        "time": 20.8
+      },
+      "Jazzhouse": {
+        "distance": 1571,
+        "time": 21.5
+      },
+      "Rust": {
+        "distance": 1926,
+        "time": 27.0
+      },
+      "Culture Box": {
+        "distance": 830,
+        "time": 11.6
+      },
+      "Golden Days Festival": {
+        "distance": 1595,
+        "time": 22.0
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1336,
+        "time": 18.4
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1582,
+        "time": 22.1
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 3235,
+        "time": 44.5
+      },
+      "Christmas in Tivoli": {
+        "distance": 2552,
+        "time": 35.2
+      },
+      "Copenhagen Carnival": {
+        "distance": 2039,
+        "time": 27.9
+      }
+    }
+  },
+  {
+    "name": "Kastellet",
+    "description": "Kastellet is a star-shaped citadel and verdant public park with military ramparts, located in Copenhagen. It is a well-preserved fortification that offers visitors a glimpse into Denmark's military history while providing a serene environment for walking and relaxation.",
+    "location": {
+      "name": "Kastellet",
+      "address": "Gammel Hovedvagt, Kastellet 1, Copenhagen"
+    },
+    "category": "Historical landmark",
+    "visit_duration": "60",
+    "opening_hours": {
+      "Monday": "6:00 AM - 8:00 PM",
+      "Tuesday": "6:00 AM - 8:00 PM",
+      "Wednesday": "6:00 AM - 8:00 PM",
+      "Thursday": "6:00 AM - 8:00 PM",
+      "Friday": "6:00 AM - 8:00 PM",
+      "Saturday": "6:00 AM - 8:00 PM",
+      "Sunday": "6:00 AM - 8:00 PM"
+    },
+    "price": "Free",
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 2217,
+        "time": 30.7
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1646,
+        "time": 22.8
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1955,
+        "time": 27.1
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1735,
+        "time": 24.1
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1574,
+        "time": 22.1
+      },
+      "Ordrupgaard": {
+        "distance": 9983,
+        "time": 136.9
+      },
+      "Hirschsprung Collection": {
+        "distance": 1835,
+        "time": 25.1
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 640,
+        "time": 8.6
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2776,
+        "time": 37.8
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2802,
+        "time": 38.8
+      },
+      "National Museum of Denmark": {
+        "distance": 2655,
+        "time": 36.4
+      },
+      "Puk": {
+        "distance": 2399,
+        "time": 33.0
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2030,
+        "time": 27.4
+      },
+      "Reffen": {
+        "distance": 3261,
+        "time": 38.1
+      },
+      "Brass Monkey": {
+        "distance": 4524,
+        "time": 62.5
+      },
+      "Boutique Lize": {
+        "distance": 4595,
+        "time": 63.7
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 2128,
+        "time": 29.3
+      },
+      "Jazzhouse": {
+        "distance": 2093,
+        "time": 28.5
+      },
+      "Rust": {
+        "distance": 3193,
+        "time": 44.7
+      },
+      "Culture Box": {
+        "distance": 1271,
+        "time": 17.7
+      },
+      "Golden Days Festival": {
+        "distance": 2443,
+        "time": 33.5
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1456,
+        "time": 20.1
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1392,
+        "time": 18.9
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 3699,
+        "time": 51.2
+      },
+      "Christmas in Tivoli": {
+        "distance": 3251,
+        "time": 44.6
+      },
+      "Copenhagen Carnival": {
+        "distance": 2776,
+        "time": 37.8
+      }
+    }
+  },
+  {
+    "name": "Statens Museum for Kunst",
+    "description": "Denmark\u2019s largest art museum, Statens Museum for Kunst, houses an extensive collection of Nordic Golden-Age paintings and European Old Masters. It is located in \u00d8stre Anl\u00e6g park and offers a rich cultural experience with its diverse exhibitions and art collections.",
+    "location": {
+      "name": "\u00d8stre Anl\u00e6g park",
+      "address": "S\u00f8lvgade 48-50, 1307 K\u00f8benhavn K, Denmark"
+    },
+    "category": "Museum",
+    "visit_duration": "60-120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "10:00 AM - 6:00 PM",
+      "Sunday": "10:00 AM - 6:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1698,
+        "time": 23.0
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 467,
+        "time": 6.5
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 506,
+        "time": 6.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 320,
+        "time": 4.1
+      },
+      "Kastellet": {
+        "distance": 1574,
+        "time": 21.5
+      },
+      "Ordrupgaard": {
+        "distance": 9806,
+        "time": 136.0
+      },
+      "Hirschsprung Collection": {
+        "distance": 410,
+        "time": 5.6
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1170,
+        "time": 16.1
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1741,
+        "time": 23.7
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2124,
+        "time": 29.1
+      },
+      "National Museum of Denmark": {
+        "distance": 1976,
+        "time": 26.7
+      },
+      "Puk": {
+        "distance": 1665,
+        "time": 22.6
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2010,
+        "time": 27.5
+      },
+      "Reffen": {
+        "distance": 4056,
+        "time": 49.1
+      },
+      "Brass Monkey": {
+        "distance": 3376,
+        "time": 46.3
+      },
+      "Boutique Lize": {
+        "distance": 3488,
+        "time": 48.0
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1212,
+        "time": 16.6
+      },
+      "Jazzhouse": {
+        "distance": 1273,
+        "time": 17.2
+      },
+      "Rust": {
+        "distance": 1606,
+        "time": 22.6
+      },
+      "Culture Box": {
+        "distance": 532,
+        "time": 7.3
+      },
+      "Golden Days Festival": {
+        "distance": 1297,
+        "time": 17.8
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1038,
+        "time": 14.2
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1284,
+        "time": 17.8
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2937,
+        "time": 40.3
+      },
+      "Christmas in Tivoli": {
+        "distance": 2254,
+        "time": 30.9
+      },
+      "Copenhagen Carnival": {
+        "distance": 1741,
+        "time": 23.7
+      }
+    }
+  },
+  {
+    "name": "Ordrupgaard",
+    "description": "Ordrupgaard is a museum that houses an impressive collection of French Impressionist and Danish Golden-Age works. It offers visitors a chance to explore both permanent and temporary exhibitions, as well as the renowned Finn Juhl's House and an art park.",
+    "location": {
+      "name": "Ordrupgaard",
+      "address": null
+    },
+    "category": "Museum",
+    "visit_duration": "45-60",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "11:00 AM - 5:00 PM",
+      "Thursday": "11:00 AM - 5:00 PM",
+      "Friday": "11:00 AM - 5:00 PM",
+      "Saturday": "11:00 AM - 5:00 PM",
+      "Sunday": "11:00 AM - 5:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 11398,
+        "time": 156.3
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 10167,
+        "time": 139.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 10175,
+        "time": 139.4
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 9858,
+        "time": 134.6
+      },
+      "Kastellet": {
+        "distance": 9980,
+        "time": 135.2
+      },
+      "Statens Museum for Kunst": {
+        "distance": 9802,
+        "time": 134.7
+      },
+      "Hirschsprung Collection": {
+        "distance": 9590,
+        "time": 131.2
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 10284,
+        "time": 141.3
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 11057,
+        "time": 151.7
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 11524,
+        "time": 158.3
+      },
+      "National Museum of Denmark": {
+        "distance": 11405,
+        "time": 156.4
+      },
+      "Puk": {
+        "distance": 11094,
+        "time": 152.2
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 11662,
+        "time": 159.8
+      },
+      "Reffen": {
+        "distance": 13053,
+        "time": 171.0
+      },
+      "Brass Monkey": {
+        "distance": 11664,
+        "time": 160.4
+      },
+      "Boutique Lize": {
+        "distance": 12078,
+        "time": 166.1
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 10789,
+        "time": 148.2
+      },
+      "Jazzhouse": {
+        "distance": 10973,
+        "time": 150.5
+      },
+      "Rust": {
+        "distance": 9082,
+        "time": 124.6
+      },
+      "Culture Box": {
+        "distance": 10240,
+        "time": 140.5
+      },
+      "Golden Days Festival": {
+        "distance": 10726,
+        "time": 147.4
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 10738,
+        "time": 147.4
+      },
+      "Copenhagen Light Festival": {
+        "distance": 10935,
+        "time": 150.0
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 11969,
+        "time": 164.5
+      },
+      "Christmas in Tivoli": {
+        "distance": 11471,
+        "time": 157.4
+      },
+      "Copenhagen Carnival": {
+        "distance": 11057,
+        "time": 151.7
+      }
+    }
+  },
+  {
+    "name": "Hirschsprung Collection",
+    "description": "The Hirschsprung Collection is an intimate gallery located in the center of Copenhagen, showcasing Danish masterpieces. It is a popular art museum for art lovers, offering a rich collection of works by Danish artists.",
+    "location": {
+      "name": "Hirschsprung Collection",
+      "address": "Located in the center of Copenhagen"
+    },
+    "category": "Gallery",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 2023,
+        "time": 27.4
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 792,
+        "time": 10.9
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 800,
+        "time": 10.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 485,
+        "time": 6.3
+      },
+      "Kastellet": {
+        "distance": 1836,
+        "time": 24.8
+      },
+      "Statens Museum for Kunst": {
+        "distance": 410,
+        "time": 5.4
+      },
+      "Ordrupgaard": {
+        "distance": 9595,
+        "time": 132.5
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1550,
+        "time": 21.2
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2040,
+        "time": 27.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2508,
+        "time": 34.5
+      },
+      "National Museum of Denmark": {
+        "distance": 2270,
+        "time": 30.7
+      },
+      "Puk": {
+        "distance": 1959,
+        "time": 26.5
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2335,
+        "time": 31.9
+      },
+      "Reffen": {
+        "distance": 4436,
+        "time": 54.3
+      },
+      "Brass Monkey": {
+        "distance": 3454,
+        "time": 47.5
+      },
+      "Boutique Lize": {
+        "distance": 3566,
+        "time": 49.2
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1537,
+        "time": 21.0
+      },
+      "Jazzhouse": {
+        "distance": 1598,
+        "time": 21.6
+      },
+      "Rust": {
+        "distance": 1596,
+        "time": 22.3
+      },
+      "Culture Box": {
+        "distance": 862,
+        "time": 11.8
+      },
+      "Golden Days Festival": {
+        "distance": 1591,
+        "time": 21.7
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1363,
+        "time": 18.6
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1609,
+        "time": 22.2
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 3015,
+        "time": 41.5
+      },
+      "Christmas in Tivoli": {
+        "distance": 2454,
+        "time": 33.6
+      },
+      "Copenhagen Carnival": {
+        "distance": 2040,
+        "time": 27.9
+      }
+    }
+  },
+  {
+    "name": "Danish Museum of Art & Design",
+    "description": "Designmuseum Danmark offers displays of decorative art, crafts, and industrial designs from the Western world and Asia. The museum showcases Danish creativity across furniture, fashion, and ceramics. It is housed in the historic Royal Frederik's Hospital, where S\u00f8ren Kierkegaard was admitted and died in 1855. The museum features both permanent and temporary exhibitions, with contributions from internationally acclaimed Danish designers such as Poul Henningsen, Kaare Klint, and Arne Jacobsen. The museum shop offers a variety of Danish industrial designs, ceramics, glass, and fabrics, and the caf\u00e9 provides outdoor seating in the beautiful Gr\u00f8nneg\u00e5rd courtyard during summer.",
+    "location": {
+      "name": "Danish Museum of Art & Design",
+      "address": null
+    },
+    "category": "Museum",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "12:00 PM - 4:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1591,
+        "time": 22.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1101,
+        "time": 15.6
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1551,
+        "time": 21.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1349,
+        "time": 18.8
+      },
+      "Kastellet": {
+        "distance": 640,
+        "time": 8.7
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1170,
+        "time": 16.6
+      },
+      "Ordrupgaard": {
+        "distance": 10292,
+        "time": 143.2
+      },
+      "Hirschsprung Collection": {
+        "distance": 1550,
+        "time": 21.7
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2165,
+        "time": 29.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2176,
+        "time": 30.3
+      },
+      "National Museum of Denmark": {
+        "distance": 2029,
+        "time": 27.9
+      },
+      "Puk": {
+        "distance": 1773,
+        "time": 24.6
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1419,
+        "time": 19.2
+      },
+      "Reffen": {
+        "distance": 3122,
+        "time": 36.3
+      },
+      "Brass Monkey": {
+        "distance": 3914,
+        "time": 54.5
+      },
+      "Boutique Lize": {
+        "distance": 4003,
+        "time": 55.5
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1619,
+        "time": 22.5
+      },
+      "Jazzhouse": {
+        "distance": 1482,
+        "time": 20.6
+      },
+      "Rust": {
+        "distance": 2789,
+        "time": 39.2
+      },
+      "Culture Box": {
+        "distance": 867,
+        "time": 12.2
+      },
+      "Golden Days Festival": {
+        "distance": 1833,
+        "time": 25.5
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 924,
+        "time": 13.1
+      },
+      "Copenhagen Light Festival": {
+        "distance": 765,
+        "time": 10.5
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 3073,
+        "time": 42.7
+      },
+      "Christmas in Tivoli": {
+        "distance": 2641,
+        "time": 36.6
+      },
+      "Copenhagen Carnival": {
+        "distance": 2165,
+        "time": 29.9
+      }
+    }
+  },
+  {
+    "name": "Louisiana Museum of Modern Art",
+    "description": "The Louisiana Museum of Modern Art is a renowned coastal venue located near Copenhagen, featuring a comprehensive collection of Nordic and international modern art. It is celebrated for its unique blend of art, architecture, and landscape, offering visitors a serene and inspiring experience.",
+    "location": {
+      "name": "Louisiana Museum of Modern Art",
+      "address": "Gl Strandvej 13, 3050 Humleb\u00e6k, Denmark"
+    },
+    "category": "Museum",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "11:00 AM - 10:00 PM",
+      "Wednesday": "11:00 AM - 10:00 PM",
+      "Thursday": "11:00 AM - 10:00 PM",
+      "Friday": "11:00 AM - 10:00 PM",
+      "Saturday": "11:00 AM - 6:00 PM",
+      "Sunday": "11:00 AM - 6:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1091,
+        "time": 14.7
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1394,
+        "time": 18.8
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1490,
+        "time": 20.2
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2040,
+        "time": 27.6
+      },
+      "Kastellet": {
+        "distance": 2776,
+        "time": 37.6
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1742,
+        "time": 23.9
+      },
+      "Ordrupgaard": {
+        "distance": 11062,
+        "time": 153.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 2042,
+        "time": 28.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2164,
+        "time": 29.6
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 512,
+        "time": 7.1
+      },
+      "National Museum of Denmark": {
+        "distance": 624,
+        "time": 8.3
+      },
+      "Puk": {
+        "distance": 506,
+        "time": 6.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2127,
+        "time": 28.9
+      },
+      "Reffen": {
+        "distance": 4979,
+        "time": 67.5
+      },
+      "Brass Monkey": {
+        "distance": 1785,
+        "time": 25.1
+      },
+      "Boutique Lize": {
+        "distance": 1856,
+        "time": 26.4
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 748,
+        "time": 10.1
+      },
+      "Jazzhouse": {
+        "distance": 829,
+        "time": 11.1
+      },
+      "Rust": {
+        "distance": 2141,
+        "time": 29.8
+      },
+      "Culture Box": {
+        "distance": 1633,
+        "time": 22.1
+      },
+      "Golden Days Festival": {
+        "distance": 438,
+        "time": 6.0
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1411,
+        "time": 18.9
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1481,
+        "time": 20.2
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1303,
+        "time": 18.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 512,
+        "time": 7.2
+      },
+      "Copenhagen Carnival": {
+        "distance": 0,
+        "time": 0.0
+      }
+    }
+  },
+  {
+    "name": "Ny Carlsberg Glyptotek",
+    "description": "Ny Carlsberg Glyptotek is renowned for its winter garden and classical sculpture halls. It houses an extensive collection of ancient and modern art, including works from the Mediterranean, Danish Golden Age, and French Impressionism.",
+    "location": {
+      "name": "Ny Carlsberg Glyptotek",
+      "address": "Dantes Plads 7, 1556 Copenhagen, Denmark"
+    },
+    "category": "Museum",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 9:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "10:00 AM - 5:00 PM",
+      "Sunday": "10:00 AM - 5:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 791,
+        "time": 11.1
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1741,
+        "time": 23.9
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1873,
+        "time": 25.9
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2423,
+        "time": 33.3
+      },
+      "Kastellet": {
+        "distance": 2801,
+        "time": 38.8
+      },
+      "Statens Museum for Kunst": {
+        "distance": 2125,
+        "time": 29.6
+      },
+      "Ordrupgaard": {
+        "distance": 11529,
+        "time": 160.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 2509,
+        "time": 35.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2174,
+        "time": 30.3
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 512,
+        "time": 7.4
+      },
+      "National Museum of Denmark": {
+        "distance": 324,
+        "time": 4.7
+      },
+      "Puk": {
+        "distance": 481,
+        "time": 6.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2033,
+        "time": 28.0
+      },
+      "Reffen": {
+        "distance": 4907,
+        "time": 66.9
+      },
+      "Brass Monkey": {
+        "distance": 2120,
+        "time": 28.9
+      },
+      "Boutique Lize": {
+        "distance": 1955,
+        "time": 26.8
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1070,
+        "time": 14.9
+      },
+      "Jazzhouse": {
+        "distance": 1013,
+        "time": 14.1
+      },
+      "Rust": {
+        "distance": 2608,
+        "time": 36.8
+      },
+      "Culture Box": {
+        "distance": 1892,
+        "time": 26.0
+      },
+      "Golden Days Festival": {
+        "distance": 821,
+        "time": 11.7
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1475,
+        "time": 20.3
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1491,
+        "time": 20.9
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1025,
+        "time": 14.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 779,
+        "time": 10.7
+      },
+      "Copenhagen Carnival": {
+        "distance": 512,
+        "time": 7.4
+      }
+    }
+  },
+  {
+    "name": "National Museum of Denmark",
+    "description": "The National Museum of Denmark is the primary cultural-history institution in Denmark, showcasing a vast collection of Viking and medieval artifacts. It offers a comprehensive insight into the history and culture of Denmark and its people.",
+    "location": {
+      "name": "National Museum of Denmark",
+      "address": null
+    },
+    "category": "Museum",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM - 3:00 PM",
+      "Wednesday": "10:00 AM - 3:00 PM",
+      "Thursday": "10:00 AM - 3:00 PM",
+      "Friday": "10:00 AM - 3:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM",
+      "Sunday": "10:00 AM - 3:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 526,
+        "time": 7.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1594,
+        "time": 21.6
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1725,
+        "time": 23.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2275,
+        "time": 31.0
+      },
+      "Kastellet": {
+        "distance": 2654,
+        "time": 36.4
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1977,
+        "time": 27.3
+      },
+      "Ordrupgaard": {
+        "distance": 11410,
+        "time": 158.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 2271,
+        "time": 31.1
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2027,
+        "time": 28.0
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 624,
+        "time": 8.6
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 323,
+        "time": 4.7
+      },
+      "Puk": {
+        "distance": 363,
+        "time": 4.9
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1807,
+        "time": 24.6
+      },
+      "Reffen": {
+        "distance": 4681,
+        "time": 63.5
+      },
+      "Brass Monkey": {
+        "distance": 2315,
+        "time": 31.9
+      },
+      "Boutique Lize": {
+        "distance": 2150,
+        "time": 29.8
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 923,
+        "time": 12.6
+      },
+      "Jazzhouse": {
+        "distance": 866,
+        "time": 11.7
+      },
+      "Rust": {
+        "distance": 2489,
+        "time": 34.8
+      },
+      "Culture Box": {
+        "distance": 1745,
+        "time": 23.7
+      },
+      "Golden Days Festival": {
+        "distance": 673,
+        "time": 9.4
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1328,
+        "time": 18.0
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1344,
+        "time": 18.6
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1220,
+        "time": 17.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 975,
+        "time": 13.7
+      },
+      "Copenhagen Carnival": {
+        "distance": 624,
+        "time": 8.6
+      }
+    }
+  },
+  {
+    "name": "Puk",
+    "description": "Restaurant Puk is a historic dining establishment in Copenhagen, offering traditional Danish cuisine with a focus on pickled herring. It has been in operation since 1750, providing a cozy atmosphere and a taste of Danish culinary heritage.",
+    "location": {
+      "name": "Puk",
+      "address": "Vandkunsten 8, 1467 K\u00f8benhavn, Denmark"
+    },
+    "category": "Restaurant",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "10:00 AM - 1:00 AM",
+      "Tuesday": "10:00 AM - 1:00 AM",
+      "Wednesday": "10:00 AM - 1:00 AM",
+      "Thursday": "10:00 AM - 1:00 AM",
+      "Friday": "10:00 AM - 1:00 AM",
+      "Saturday": "10:00 AM - 1:00 AM",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 605,
+        "time": 8.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1318,
+        "time": 17.9
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1414,
+        "time": 19.3
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1964,
+        "time": 26.8
+      },
+      "Kastellet": {
+        "distance": 2400,
+        "time": 32.9
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1666,
+        "time": 23.1
+      },
+      "Ordrupgaard": {
+        "distance": 11099,
+        "time": 153.8
+      },
+      "Hirschsprung Collection": {
+        "distance": 1960,
+        "time": 26.9
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1773,
+        "time": 24.4
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 506,
+        "time": 7.0
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 481,
+        "time": 6.8
+      },
+      "National Museum of Denmark": {
+        "distance": 363,
+        "time": 4.9
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1736,
+        "time": 23.8
+      },
+      "Reffen": {
+        "distance": 4547,
+        "time": 62.2
+      },
+      "Brass Monkey": {
+        "distance": 2255,
+        "time": 31.6
+      },
+      "Boutique Lize": {
+        "distance": 2308,
+        "time": 32.0
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 672,
+        "time": 9.2
+      },
+      "Jazzhouse": {
+        "distance": 586,
+        "time": 8.0
+      },
+      "Rust": {
+        "distance": 2178,
+        "time": 30.6
+      },
+      "Culture Box": {
+        "distance": 1498,
+        "time": 20.3
+      },
+      "Golden Days Festival": {
+        "distance": 362,
+        "time": 5.2
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1081,
+        "time": 14.6
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1090,
+        "time": 15.1
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1378,
+        "time": 19.2
+      },
+      "Christmas in Tivoli": {
+        "distance": 982,
+        "time": 13.7
+      },
+      "Copenhagen Carnival": {
+        "distance": 506,
+        "time": 7.0
+      }
+    }
+  },
+  {
+    "name": "Broens Gadek\u00f8kken",
+    "description": "Broens Gadek\u00f8kken, also known as Broens Street Food, is a vibrant harbor-front market located by the Inner Harbour Bridge between Christianshavn and Nyhavn in Copenhagen. It offers a diverse selection of Danish and global street food stalls, with an emphasis on organic ingredients. The market features popular vendors such as California Kitchen, GR\u00d8D, Gasoline Grill, Pizza Bro, Kejser Sausage, Dhaba, Haddock\u2019s, Pal\u00e6gade, Will at the Bridge, MAC-CIK by IBU, and Barabba. Throughout the season, guest chefs from around the world are invited to showcase their unique takes on street food. The market also hosts events like Bar & B\u00f8lger, focusing on drinks and free samples, providing a lively atmosphere with stunning views over the water.",
+    "location": {
+      "name": "Christianshavn",
+      "address": "Strandgade 95, 1401 K\u00f8benhavn, Denmark"
+    },
+    "category": "Street-food market",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "9:00 AM - 10:00 PM",
+      "Tuesday": "9:00 AM - 10:00 PM",
+      "Wednesday": "9:00 AM - 10:00 PM",
+      "Thursday": "9:00 AM - 10:00 PM",
+      "Friday": "9:00 AM - 10:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1256,
+        "time": 18.0
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1533,
+        "time": 21.3
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 2061,
+        "time": 28.8
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2308,
+        "time": 31.9
+      },
+      "Kastellet": {
+        "distance": 2030,
+        "time": 27.5
+      },
+      "Statens Museum for Kunst": {
+        "distance": 2010,
+        "time": 28.2
+      },
+      "Ordrupgaard": {
+        "distance": 11670,
+        "time": 161.6
+      },
+      "Hirschsprung Collection": {
+        "distance": 2356,
+        "time": 32.8
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1419,
+        "time": 19.2
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2127,
+        "time": 29.3
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2077,
+        "time": 28.5
+      },
+      "National Museum of Denmark": {
+        "distance": 1808,
+        "time": 24.6
+      },
+      "Puk": {
+        "distance": 1735,
+        "time": 24.0
+      },
+      "Reffen": {
+        "distance": 2937,
+        "time": 39.8
+      },
+      "Brass Monkey": {
+        "distance": 3876,
+        "time": 53.9
+      },
+      "Boutique Lize": {
+        "distance": 3794,
+        "time": 53.0
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1581,
+        "time": 21.9
+      },
+      "Jazzhouse": {
+        "distance": 1444,
+        "time": 20.0
+      },
+      "Rust": {
+        "distance": 3107,
+        "time": 43.6
+      },
+      "Culture Box": {
+        "distance": 1684,
+        "time": 23.3
+      },
+      "Golden Days Festival": {
+        "distance": 1795,
+        "time": 24.9
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 967,
+        "time": 13.6
+      },
+      "Copenhagen Light Festival": {
+        "distance": 779,
+        "time": 10.5
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2864,
+        "time": 40.2
+      },
+      "Christmas in Tivoli": {
+        "distance": 2603,
+        "time": 36.0
+      },
+      "Copenhagen Carnival": {
+        "distance": 2127,
+        "time": 29.3
+      }
+    }
+  },
+  {
+    "name": "Reffen",
+    "description": "Reffen is Copenhagen\u2019s largest street-food hall, located in the vibrant area of Refshale\u00f8en. It features approximately 50 stalls offering a diverse range of international cuisines. The venue is a popular destination for both locals and tourists, providing a lively atmosphere with food, drinks, and occasional events.",
+    "location": {
+      "name": "Refshale\u00f8en",
+      "address": null
+    },
+    "category": "Street-food hall",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "11:30 AM - 9:30 PM",
+      "Tuesday": "11:30 AM - 9:30 PM",
+      "Wednesday": "11:30 AM - 9:30 PM",
+      "Thursday": "11:30 AM - 9:30 PM",
+      "Friday": "11:30 AM - 9:30 PM",
+      "Saturday": "11:30 AM - 9:30 PM",
+      "Sunday": "11:30 AM - 9:30 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 4131,
+        "time": 56.9
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 4386,
+        "time": 59.9
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 4437,
+        "time": 54.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 4235,
+        "time": 51.8
+      },
+      "Kastellet": {
+        "distance": 3261,
+        "time": 38.1
+      },
+      "Statens Museum for Kunst": {
+        "distance": 4056,
+        "time": 49.7
+      },
+      "Ordrupgaard": {
+        "distance": 13056,
+        "time": 172.6
+      },
+      "Hirschsprung Collection": {
+        "distance": 4436,
+        "time": 54.7
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 3122,
+        "time": 36.2
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 4980,
+        "time": 67.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 4952,
+        "time": 67.4
+      },
+      "National Museum of Denmark": {
+        "distance": 4683,
+        "time": 63.5
+      },
+      "Puk": {
+        "distance": 4548,
+        "time": 62.5
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2938,
+        "time": 39.8
+      },
+      "Brass Monkey": {
+        "distance": 6729,
+        "time": 92.5
+      },
+      "Boutique Lize": {
+        "distance": 6669,
+        "time": 91.8
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 4434,
+        "time": 60.5
+      },
+      "Jazzhouse": {
+        "distance": 4297,
+        "time": 58.6
+      },
+      "Rust": {
+        "distance": 5960,
+        "time": 82.2
+      },
+      "Culture Box": {
+        "distance": 3753,
+        "time": 45.3
+      },
+      "Golden Days Festival": {
+        "distance": 4648,
+        "time": 63.5
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 3820,
+        "time": 52.1
+      },
+      "Copenhagen Light Festival": {
+        "distance": 3632,
+        "time": 49.1
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 5739,
+        "time": 79.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 5456,
+        "time": 74.6
+      },
+      "Copenhagen Carnival": {
+        "distance": 4980,
+        "time": 67.9
+      }
+    }
+  },
+  {
+    "name": "Brass Monkey",
+    "description": "Brass Monkey is a vibrant bar located in the Vesterbro district of Copenhagen, known for its Hawaiian-themed cocktails with a volcanic flair. The bar offers a unique and lively atmosphere, perfect for enjoying creative drinks in a tropical setting.",
+    "location": {
+      "name": "Vesterbro",
+      "address": "Enghavevej 31, 1674 K\u00f8benhavn V, Denmark"
+    },
+    "category": "Bar",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "8:00 PM - 1:00 AM",
+      "Friday": "8:00 PM - 4:00 AM",
+      "Saturday": "8:00 PM - 4:00 AM",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 2783,
+        "time": 38.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 3177,
+        "time": 44.0
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 3123,
+        "time": 43.0
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 3673,
+        "time": 50.4
+      },
+      "Kastellet": {
+        "distance": 4524,
+        "time": 62.4
+      },
+      "Statens Museum for Kunst": {
+        "distance": 3375,
+        "time": 46.7
+      },
+      "Ordrupgaard": {
+        "distance": 11669,
+        "time": 161.9
+      },
+      "Hirschsprung Collection": {
+        "distance": 3454,
+        "time": 47.8
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 3913,
+        "time": 54.3
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1785,
+        "time": 25.3
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2121,
+        "time": 28.8
+      },
+      "National Museum of Denmark": {
+        "distance": 2316,
+        "time": 31.8
+      },
+      "Puk": {
+        "distance": 2255,
+        "time": 31.6
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 3876,
+        "time": 53.6
+      },
+      "Reffen": {
+        "distance": 6728,
+        "time": 92.2
+      },
+      "Boutique Lize": {
+        "distance": 414,
+        "time": 5.6
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 2531,
+        "time": 35.2
+      },
+      "Jazzhouse": {
+        "distance": 2578,
+        "time": 35.9
+      },
+      "Rust": {
+        "distance": 2793,
+        "time": 39.3
+      },
+      "Culture Box": {
+        "distance": 3416,
+        "time": 47.2
+      },
+      "Golden Days Festival": {
+        "distance": 2221,
+        "time": 31.2
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 3160,
+        "time": 43.7
+      },
+      "Copenhagen Light Festival": {
+        "distance": 3230,
+        "time": 45.0
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1308,
+        "time": 17.6
+      },
+      "Christmas in Tivoli": {
+        "distance": 1761,
+        "time": 24.4
+      },
+      "Copenhagen Carnival": {
+        "distance": 1785,
+        "time": 25.3
+      }
+    }
+  },
+  {
+    "name": "Boutique Lize",
+    "description": "Boutique Lize is a bar located in the vibrant Vesterbro district of Copenhagen. Known for its indie-rock soundtrack and date-friendly layout, it offers an eclectic selection of unusual tap beers. The bar provides a cozy and intimate atmosphere, making it a popular spot for both locals and visitors looking to enjoy a unique nightlife experience.",
+    "location": {
+      "name": "Vesterbro",
+      "address": "Enghave Plads 6, 1670 K\u00f8benhavn, Denmark"
+    },
+    "category": "Bar",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "8:00 PM - 3:00 AM",
+      "Friday": "6:00 PM - 4:30 AM",
+      "Saturday": "8:00 PM - 4:30 AM",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 2617,
+        "time": 36.1
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 3290,
+        "time": 45.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 3236,
+        "time": 44.7
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 3786,
+        "time": 52.1
+      },
+      "Kastellet": {
+        "distance": 4648,
+        "time": 64.0
+      },
+      "Statens Museum for Kunst": {
+        "distance": 3488,
+        "time": 48.5
+      },
+      "Ordrupgaard": {
+        "distance": 12083,
+        "time": 167.6
+      },
+      "Hirschsprung Collection": {
+        "distance": 3567,
+        "time": 49.5
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 4001,
+        "time": 55.3
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1909,
+        "time": 26.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1955,
+        "time": 26.7
+      },
+      "National Museum of Denmark": {
+        "distance": 2150,
+        "time": 29.7
+      },
+      "Puk": {
+        "distance": 2308,
+        "time": 31.9
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 3794,
+        "time": 52.6
+      },
+      "Reffen": {
+        "distance": 6668,
+        "time": 91.5
+      },
+      "Brass Monkey": {
+        "distance": 414,
+        "time": 5.6
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 2644,
+        "time": 37.0
+      },
+      "Jazzhouse": {
+        "distance": 2702,
+        "time": 37.5
+      },
+      "Rust": {
+        "distance": 3207,
+        "time": 45.0
+      },
+      "Culture Box": {
+        "distance": 3529,
+        "time": 48.9
+      },
+      "Golden Days Festival": {
+        "distance": 2334,
+        "time": 32.9
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 3284,
+        "time": 45.3
+      },
+      "Copenhagen Light Festival": {
+        "distance": 3318,
+        "time": 46.0
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1158,
+        "time": 15.7
+      },
+      "Christmas in Tivoli": {
+        "distance": 1595,
+        "time": 22.2
+      },
+      "Copenhagen Carnival": {
+        "distance": 1909,
+        "time": 26.9
+      }
+    }
+  },
+  {
+    "name": "Mikkeller Bar & The Jane",
+    "description": "Mikkeller Bar & The Jane are Copenhagen originals known for their craft beer and stylish mixed drinks, offering a unique experience in the vibrant Vesterbro district.",
+    "location": {
+      "name": "Vesterbro",
+      "address": "Viktoriagade 8 B-C, 1655 K\u00f8benhavn V, Denmark"
+    },
+    "category": "Bar",
+    "visit_duration": "90",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "2:00 PM - 11:00 PM",
+      "Wednesday": "2:00 PM - 11:00 PM",
+      "Thursday": "Closed",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 687,
+        "time": 9.2
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 734,
+        "time": 9.9
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1022,
+        "time": 13.9
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1509,
+        "time": 20.6
+      },
+      "Kastellet": {
+        "distance": 2128,
+        "time": 29.1
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1211,
+        "time": 16.9
+      },
+      "Ordrupgaard": {
+        "distance": 10794,
+        "time": 149.5
+      },
+      "Hirschsprung Collection": {
+        "distance": 1557,
+        "time": 21.4
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1618,
+        "time": 22.2
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 748,
+        "time": 10.1
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1070,
+        "time": 14.6
+      },
+      "National Museum of Denmark": {
+        "distance": 923,
+        "time": 12.3
+      },
+      "Puk": {
+        "distance": 672,
+        "time": 8.9
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1581,
+        "time": 21.5
+      },
+      "Reffen": {
+        "distance": 4433,
+        "time": 60.1
+      },
+      "Brass Monkey": {
+        "distance": 2531,
+        "time": 35.2
+      },
+      "Boutique Lize": {
+        "distance": 2644,
+        "time": 36.9
+      },
+      "Jazzhouse": {
+        "distance": 137,
+        "time": 1.8
+      },
+      "Rust": {
+        "distance": 1873,
+        "time": 26.2
+      },
+      "Culture Box": {
+        "distance": 912,
+        "time": 12.3
+      },
+      "Golden Days Festival": {
+        "distance": 353,
+        "time": 4.9
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 666,
+        "time": 9.0
+      },
+      "Copenhagen Light Festival": {
+        "distance": 935,
+        "time": 12.8
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1967,
+        "time": 27.0
+      },
+      "Christmas in Tivoli": {
+        "distance": 1261,
+        "time": 17.4
+      },
+      "Copenhagen Carnival": {
+        "distance": 748,
+        "time": 10.1
+      }
+    }
+  },
+  {
+    "name": "Jazzhouse",
+    "description": "Historic jazz club now presenting rock, pop, electronic and indie showcases. Concert tickets can be bought on the premises from 18:30 on days when a concert is happening. Once the concerts are wrapped up, the nightclub opens, playing jazz-themed music through the night. It is usually very busy between 23:00 and midnight so be prepared to queue to get in.",
+    "location": {
+      "name": "Jazzhouse",
+      "address": "Niels Hemmingsens Gade 10, City-center, 1129 Copenhagen, Denmark"
+    },
+    "category": "Music venue",
+    "visit_duration": "120",
+    "opening_hours": {
+      "Monday": "8:00 PM - 12:00 AM",
+      "Tuesday": "8:00 PM - 12:00 AM",
+      "Wednesday": "8:00 PM - 12:00 AM",
+      "Thursday": "8:00 PM - 12:00 AM",
+      "Friday": "9:00 PM - 12:00 AM",
+      "Saturday": "9:00 PM - 12:00 AM",
+      "Sunday": "8:00 PM - 12:00 AM"
+    },
+    "price": "65 DKK",
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 550,
+        "time": 7.4
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 796,
+        "time": 10.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1160,
+        "time": 15.7
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1571,
+        "time": 21.4
+      },
+      "Kastellet": {
+        "distance": 2093,
+        "time": 28.4
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1273,
+        "time": 17.7
+      },
+      "Ordrupgaard": {
+        "distance": 10978,
+        "time": 152.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 1619,
+        "time": 22.2
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1481,
+        "time": 20.4
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 829,
+        "time": 11.2
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1013,
+        "time": 14.0
+      },
+      "National Museum of Denmark": {
+        "distance": 866,
+        "time": 11.6
+      },
+      "Puk": {
+        "distance": 586,
+        "time": 7.9
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1444,
+        "time": 19.7
+      },
+      "Reffen": {
+        "distance": 4296,
+        "time": 58.3
+      },
+      "Brass Monkey": {
+        "distance": 2578,
+        "time": 35.9
+      },
+      "Boutique Lize": {
+        "distance": 2649,
+        "time": 37.1
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 137,
+        "time": 1.9
+      },
+      "Rust": {
+        "distance": 2011,
+        "time": 28.1
+      },
+      "Culture Box": {
+        "distance": 947,
+        "time": 12.8
+      },
+      "Golden Days Festival": {
+        "distance": 491,
+        "time": 6.8
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 618,
+        "time": 8.4
+      },
+      "Copenhagen Light Festival": {
+        "distance": 798,
+        "time": 11.0
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1910,
+        "time": 26.4
+      },
+      "Christmas in Tivoli": {
+        "distance": 1305,
+        "time": 18.0
+      },
+      "Copenhagen Carnival": {
+        "distance": 829,
+        "time": 11.2
+      }
+    }
+  },
+  {
+    "name": "Rust",
+    "description": "Rust is a vibrant music venue located in the heart of N\u00f8rrebro, Copenhagen. Known for its eclectic mix of indie rock, hip hop, and electronica, Rust offers a long-running live-stage setting that attracts music enthusiasts from all over. The venue is committed to providing a safer space for all its patrons.",
+    "location": {
+      "name": "N\u00f8rrebro",
+      "address": "Guldbergsgade 8, 2200 K\u00f8benhavn, Denmark"
+    },
+    "category": "Music venue",
+    "visit_duration": "240",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "8:30 PM - 5:00 AM",
+      "Saturday": "8:30 PM - 5:00 AM",
+      "Sunday": "Closed"
+    },
+    "price": "Free entrance before midnight",
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 2480,
+        "time": 33.9
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1881,
+        "time": 25.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1649,
+        "time": 22.2
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1927,
+        "time": 26.3
+      },
+      "Kastellet": {
+        "distance": 3193,
+        "time": 43.9
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1607,
+        "time": 22.1
+      },
+      "Ordrupgaard": {
+        "distance": 9087,
+        "time": 125.5
+      },
+      "Hirschsprung Collection": {
+        "distance": 1596,
+        "time": 22.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2789,
+        "time": 38.4
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 2141,
+        "time": 29.3
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 2608,
+        "time": 35.9
+      },
+      "National Museum of Denmark": {
+        "distance": 2489,
+        "time": 34.0
+      },
+      "Puk": {
+        "distance": 2178,
+        "time": 29.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 3107,
+        "time": 42.5
+      },
+      "Reffen": {
+        "distance": 5959,
+        "time": 81.2
+      },
+      "Brass Monkey": {
+        "distance": 2793,
+        "time": 38.7
+      },
+      "Boutique Lize": {
+        "distance": 3207,
+        "time": 44.3
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1873,
+        "time": 25.8
+      },
+      "Jazzhouse": {
+        "distance": 2011,
+        "time": 27.5
+      },
+      "Culture Box": {
+        "distance": 2053,
+        "time": 28.3
+      },
+      "Golden Days Festival": {
+        "distance": 1810,
+        "time": 25.0
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 2134,
+        "time": 29.2
+      },
+      "Copenhagen Light Festival": {
+        "distance": 2381,
+        "time": 32.8
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 3053,
+        "time": 42.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 2555,
+        "time": 35.0
+      },
+      "Copenhagen Carnival": {
+        "distance": 2141,
+        "time": 29.3
+      }
+    }
+  },
+  {
+    "name": "Culture Box",
+    "description": "Culture Box is a renowned electronic-music venue in Copenhagen, known for its vibrant nightlife and top-notch DJ performances. It is considered a temple for electronic music enthusiasts, offering an immersive experience with its state-of-the-art sound system and dynamic lighting. The venue is open from Friday to Saturday, providing a perfect spot for weekend revelers.",
+    "location": {
+      "name": "Culture Box",
+      "address": "Kronprinsessegade 54, 1306 Copenhagen K, Denmark"
+    },
+    "category": "Music venue",
+    "visit_duration": "480",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "11:00 PM - 6:00 AM",
+      "Saturday": "10:00 PM - 8:00 AM",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1372,
+        "time": 18.6
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 364,
+        "time": 5.0
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 776,
+        "time": 10.7
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 830,
+        "time": 11.4
+      },
+      "Kastellet": {
+        "distance": 1269,
+        "time": 17.5
+      },
+      "Statens Museum for Kunst": {
+        "distance": 532,
+        "time": 7.7
+      },
+      "Ordrupgaard": {
+        "distance": 10245,
+        "time": 142.0
+      },
+      "Hirschsprung Collection": {
+        "distance": 862,
+        "time": 12.1
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 865,
+        "time": 12.0
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1633,
+        "time": 22.2
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1892,
+        "time": 25.8
+      },
+      "National Museum of Denmark": {
+        "distance": 1745,
+        "time": 23.4
+      },
+      "Puk": {
+        "distance": 1498,
+        "time": 20.2
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1684,
+        "time": 23.0
+      },
+      "Reffen": {
+        "distance": 3751,
+        "time": 45.1
+      },
+      "Brass Monkey": {
+        "distance": 3416,
+        "time": 47.2
+      },
+      "Boutique Lize": {
+        "distance": 3529,
+        "time": 49.0
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 912,
+        "time": 12.4
+      },
+      "Jazzhouse": {
+        "distance": 947,
+        "time": 12.8
+      },
+      "Rust": {
+        "distance": 2053,
+        "time": 28.9
+      },
+      "Golden Days Festival": {
+        "distance": 1236,
+        "time": 16.9
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 712,
+        "time": 9.7
+      },
+      "Copenhagen Light Festival": {
+        "distance": 958,
+        "time": 13.3
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2789,
+        "time": 38.2
+      },
+      "Christmas in Tivoli": {
+        "distance": 2146,
+        "time": 29.4
+      },
+      "Copenhagen Carnival": {
+        "distance": 1633,
+        "time": 22.2
+      }
+    }
+  },
+  {
+    "name": "Golden Days Festival",
+    "description": "Golden Days Festival is Copenhagen's major annual culture festival, first held in 1994. It is a collaboration between over 100 cultural institutions in Copenhagen, aiming to share knowledge, history, and culture in an engaging way. The festival features thematic history celebrations with lectures and exhibitions, inviting locals and visitors to experience various historical periods, from Christian the 4\u2019s Copenhagen to the industrial revolution and the interwar period. In 2024, the festival will explore the theme of working life, balancing past, future, part-time, overtime, and free time.",
+    "location": {
+      "name": "Golden Days Festival",
+      "address": null
+    },
+    "category": "Festival",
+    "visit_duration": "180",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "Closed",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 915,
+        "time": 12.3
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 995,
+        "time": 13.2
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1046,
+        "time": 14.1
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1596,
+        "time": 21.5
+      },
+      "Kastellet": {
+        "distance": 2443,
+        "time": 33.0
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1298,
+        "time": 17.8
+      },
+      "Ordrupgaard": {
+        "distance": 10732,
+        "time": 148.6
+      },
+      "Hirschsprung Collection": {
+        "distance": 1592,
+        "time": 21.7
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 1832,
+        "time": 25.0
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 438,
+        "time": 5.9
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 821,
+        "time": 11.2
+      },
+      "National Museum of Denmark": {
+        "distance": 673,
+        "time": 8.9
+      },
+      "Puk": {
+        "distance": 362,
+        "time": 4.7
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 1795,
+        "time": 24.3
+      },
+      "Reffen": {
+        "distance": 4647,
+        "time": 62.9
+      },
+      "Brass Monkey": {
+        "distance": 2221,
+        "time": 30.9
+      },
+      "Boutique Lize": {
+        "distance": 2334,
+        "time": 32.6
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 353,
+        "time": 4.7
+      },
+      "Jazzhouse": {
+        "distance": 491,
+        "time": 6.4
+      },
+      "Rust": {
+        "distance": 1811,
+        "time": 25.3
+      },
+      "Culture Box": {
+        "distance": 1256,
+        "time": 16.8
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 983,
+        "time": 13.2
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1149,
+        "time": 15.6
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1718,
+        "time": 23.6
+      },
+      "Christmas in Tivoli": {
+        "distance": 951,
+        "time": 13.1
+      },
+      "Copenhagen Carnival": {
+        "distance": 438,
+        "time": 5.9
+      }
+    }
+  },
+  {
+    "name": "Kulturnatten (Culture Night)",
+    "description": "Kulturnatten (Culture Night) is an annual event in Copenhagen and Frederiksberg, taking place on the Friday just before the Autumn Holiday in week 41. It offers a one-night open-house experience for over 200 cultural institutions, transforming the city into a vibrant cultural hub from 18:00 to 24:00.",
+    "location": {
+      "name": "Kulturnatten (Culture Night)",
+      "address": null
+    },
+    "category": "Event",
+    "visit_duration": "360",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "6:00 PM - 12:00 AM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 928,
+        "time": 12.8
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 561,
+        "time": 7.7
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1088,
+        "time": 15.1
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1336,
+        "time": 18.3
+      },
+      "Kastellet": {
+        "distance": 1456,
+        "time": 20.0
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1038,
+        "time": 14.6
+      },
+      "Ordrupgaard": {
+        "distance": 10743,
+        "time": 149.0
+      },
+      "Hirschsprung Collection": {
+        "distance": 1384,
+        "time": 19.2
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 924,
+        "time": 12.9
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1419,
+        "time": 19.3
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1483,
+        "time": 20.4
+      },
+      "National Museum of Denmark": {
+        "distance": 1336,
+        "time": 18.1
+      },
+      "Puk": {
+        "distance": 1089,
+        "time": 14.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 967,
+        "time": 13.3
+      },
+      "Reffen": {
+        "distance": 3819,
+        "time": 51.9
+      },
+      "Brass Monkey": {
+        "distance": 3167,
+        "time": 44.0
+      },
+      "Boutique Lize": {
+        "distance": 3238,
+        "time": 45.2
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 666,
+        "time": 9.1
+      },
+      "Jazzhouse": {
+        "distance": 618,
+        "time": 8.4
+      },
+      "Rust": {
+        "distance": 2134,
+        "time": 29.9
+      },
+      "Culture Box": {
+        "distance": 712,
+        "time": 9.7
+      },
+      "Golden Days Festival": {
+        "distance": 983,
+        "time": 13.5
+      },
+      "Copenhagen Light Festival": {
+        "distance": 241,
+        "time": 3.6
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2380,
+        "time": 32.8
+      },
+      "Christmas in Tivoli": {
+        "distance": 1894,
+        "time": 26.1
+      },
+      "Copenhagen Carnival": {
+        "distance": 1419,
+        "time": 19.3
+      }
+    }
+  },
+  {
+    "name": "Copenhagen Light Festival",
+    "description": "Copenhagen Light Festival features illuminated sculptures and interactive light art installations across various locations in Copenhagen, including Refshale\u00f8en, \u00d8restaden, Vestre Kirkeg\u00e5rd, N\u00f8rrebro, the Lakes, and parts of the City.",
+    "location": {
+      "name": "Copenhagen Light Festival",
+      "address": null
+    },
+    "category": "Festival",
+    "visit_duration": "180",
+    "opening_hours": {
+      "Monday": "5:00 PM - 12:00 AM",
+      "Tuesday": "5:00 PM - 12:00 AM",
+      "Wednesday": "5:00 PM - 12:00 AM",
+      "Thursday": "5:00 PM - 12:00 AM",
+      "Friday": "5:00 PM - 12:00 AM",
+      "Saturday": "5:00 PM - 12:00 AM",
+      "Sunday": "5:00 PM - 12:00 AM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 907,
+        "time": 12.9
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 807,
+        "time": 11.4
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1335,
+        "time": 18.9
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 1582,
+        "time": 22.1
+      },
+      "Kastellet": {
+        "distance": 1392,
+        "time": 18.9
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1284,
+        "time": 18.4
+      },
+      "Ordrupgaard": {
+        "distance": 10943,
+        "time": 151.8
+      },
+      "Hirschsprung Collection": {
+        "distance": 1630,
+        "time": 23.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 765,
+        "time": 10.5
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1481,
+        "time": 20.5
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1492,
+        "time": 20.9
+      },
+      "National Museum of Denmark": {
+        "distance": 1345,
+        "time": 18.6
+      },
+      "Puk": {
+        "distance": 1089,
+        "time": 15.2
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 779,
+        "time": 10.4
+      },
+      "Reffen": {
+        "distance": 3631,
+        "time": 49.0
+      },
+      "Brass Monkey": {
+        "distance": 3230,
+        "time": 45.1
+      },
+      "Boutique Lize": {
+        "distance": 3319,
+        "time": 46.1
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 935,
+        "time": 13.1
+      },
+      "Jazzhouse": {
+        "distance": 798,
+        "time": 11.2
+      },
+      "Rust": {
+        "distance": 2381,
+        "time": 33.8
+      },
+      "Culture Box": {
+        "distance": 958,
+        "time": 13.5
+      },
+      "Golden Days Festival": {
+        "distance": 1149,
+        "time": 16.1
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 241,
+        "time": 3.7
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 2389,
+        "time": 33.3
+      },
+      "Christmas in Tivoli": {
+        "distance": 1957,
+        "time": 27.2
+      },
+      "Copenhagen Carnival": {
+        "distance": 1481,
+        "time": 20.5
+      }
+    }
+  },
+  {
+    "name": "Copenhagen Opera Festival",
+    "description": "The Copenhagen Opera Festival is a city-wide celebration of opera, featuring performances in both indoor and outdoor venues across Copenhagen. Highlights include unique experiences such as canal tours with opera performances, offering a blend of traditional and innovative opera showcases.",
+    "location": {
+      "name": "Copenhagen Opera Festival",
+      "address": null
+    },
+    "category": "Festival",
+    "visit_duration": "70",
+    "opening_hours": {
+      "Monday": "9:30 AM - 4:00 PM",
+      "Tuesday": "9:30 AM - 4:00 PM",
+      "Wednesday": "9:30 AM - 4:00 PM",
+      "Thursday": "9:30 AM - 4:00 PM",
+      "Friday": "9:30 AM - 4:00 PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "price": "225 DKK",
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1687,
+        "time": 23.5
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 2638,
+        "time": 36.4
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 2719,
+        "time": 37.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 3269,
+        "time": 45.1
+      },
+      "Kastellet": {
+        "distance": 3698,
+        "time": 51.2
+      },
+      "Statens Museum for Kunst": {
+        "distance": 2971,
+        "time": 41.4
+      },
+      "Ordrupgaard": {
+        "distance": 11973,
+        "time": 166.2
+      },
+      "Hirschsprung Collection": {
+        "distance": 3050,
+        "time": 42.4
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 3071,
+        "time": 42.7
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 1303,
+        "time": 18.5
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 1025,
+        "time": 14.1
+      },
+      "National Museum of Denmark": {
+        "distance": 1220,
+        "time": 17.1
+      },
+      "Puk": {
+        "distance": 1378,
+        "time": 19.3
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2864,
+        "time": 40.0
+      },
+      "Reffen": {
+        "distance": 5738,
+        "time": 78.9
+      },
+      "Brass Monkey": {
+        "distance": 1307,
+        "time": 17.8
+      },
+      "Boutique Lize": {
+        "distance": 1158,
+        "time": 15.8
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1967,
+        "time": 27.3
+      },
+      "Jazzhouse": {
+        "distance": 1910,
+        "time": 26.5
+      },
+      "Rust": {
+        "distance": 3052,
+        "time": 42.9
+      },
+      "Culture Box": {
+        "distance": 2789,
+        "time": 38.5
+      },
+      "Golden Days Festival": {
+        "distance": 1718,
+        "time": 24.2
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 2372,
+        "time": 32.8
+      },
+      "Copenhagen Light Festival": {
+        "distance": 2388,
+        "time": 33.4
+      },
+      "Christmas in Tivoli": {
+        "distance": 989,
+        "time": 13.8
+      },
+      "Copenhagen Carnival": {
+        "distance": 1303,
+        "time": 18.5
+      }
+    }
+  },
+  {
+    "name": "Christmas in Tivoli",
+    "description": "Christmas in Tivoli is a truly enjoyable Christmas experience that runs from 15 November 2024 to 5 January 2025. The gardens glow with thousands of sparkling lights, creating an authentic Christmas atmosphere. Visitors can greet Father Christmas, board the Santa Train, taste Christmas treats, and enjoy child-friendly rides. Adults can enjoy the romantic atmosphere, try ice skating, and explore Christmas stalls for unique gifts. Tivoli is the best place for Christmas traditions with loved ones.",
+    "location": {
+      "name": "Tivoli Gardens",
+      "address": "Tivoli Gardens, Vesterbrogade 3, 1630 Copenhagen, Denmark"
+    },
+    "category": "Event",
+    "visit_duration": "180",
+    "opening_hours": {
+      "Monday": "11:00 AM - 11:00 PM",
+      "Tuesday": "11:00 AM - 11:00 PM",
+      "Wednesday": "11:00 AM - 11:00 PM",
+      "Thursday": "11:00 AM - 11:00 PM",
+      "Friday": "11:00 AM - 12:00 AM",
+      "Saturday": "11:00 AM - 12:00 AM",
+      "Sunday": "11:00 AM - 11:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1442,
+        "time": 19.9
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1907,
+        "time": 26.2
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 2003,
+        "time": 27.6
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2553,
+        "time": 35.0
+      },
+      "Kastellet": {
+        "distance": 3251,
+        "time": 44.5
+      },
+      "Statens Museum for Kunst": {
+        "distance": 2255,
+        "time": 31.3
+      },
+      "Ordrupgaard": {
+        "distance": 11476,
+        "time": 159.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 2455,
+        "time": 34.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2640,
+        "time": 36.5
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 512,
+        "time": 7.4
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 779,
+        "time": 10.5
+      },
+      "National Museum of Denmark": {
+        "distance": 975,
+        "time": 13.5
+      },
+      "Puk": {
+        "distance": 982,
+        "time": 13.7
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2603,
+        "time": 35.8
+      },
+      "Reffen": {
+        "distance": 5455,
+        "time": 74.4
+      },
+      "Brass Monkey": {
+        "distance": 1759,
+        "time": 24.6
+      },
+      "Boutique Lize": {
+        "distance": 1594,
+        "time": 22.4
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 1261,
+        "time": 17.5
+      },
+      "Jazzhouse": {
+        "distance": 1305,
+        "time": 18.0
+      },
+      "Rust": {
+        "distance": 2555,
+        "time": 35.8
+      },
+      "Culture Box": {
+        "distance": 2146,
+        "time": 29.5
+      },
+      "Golden Days Festival": {
+        "distance": 951,
+        "time": 13.5
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1887,
+        "time": 25.9
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1957,
+        "time": 27.1
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 989,
+        "time": 13.6
+      },
+      "Copenhagen Carnival": {
+        "distance": 512,
+        "time": 7.4
+      }
+    }
+  },
+  {
+    "name": "Copenhagen Carnival",
+    "description": "Copenhagen Carnival is a vibrant three-day festival held in F\u00e6lledparken, featuring colorful parades, multicultural food fairs, and performances showcasing the world's fantastic folk cultures. The event includes concerts, dance shows, and an open salsa dance floor, providing a lively atmosphere for all attendees.",
+    "location": {
+      "name": "F\u00e6lledparken",
+      "address": null
+    },
+    "category": "Festival",
+    "visit_duration": "180",
+    "opening_hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Closed",
+      "Friday": "12:00 PM - 7:00 PM",
+      "Saturday": "12:00 PM - 7:00 PM",
+      "Sunday": "12:00 PM - 7:00 PM"
+    },
+    "price": null,
+    "rating": null,
+    "travel_info": {
+      "Christiansborg Palace": {
+        "distance": 1091,
+        "time": 14.7
+      },
+      "Kongens Have (Rosenborg Castle Gardens)": {
+        "distance": 1394,
+        "time": 18.8
+      },
+      "Botanisk Have (The Botanical Garden)": {
+        "distance": 1490,
+        "time": 20.2
+      },
+      "\u00d8stre Anl\u00e6g Park": {
+        "distance": 2040,
+        "time": 27.6
+      },
+      "Kastellet": {
+        "distance": 2776,
+        "time": 37.6
+      },
+      "Statens Museum for Kunst": {
+        "distance": 1742,
+        "time": 23.9
+      },
+      "Ordrupgaard": {
+        "distance": 11062,
+        "time": 153.1
+      },
+      "Hirschsprung Collection": {
+        "distance": 2042,
+        "time": 28.0
+      },
+      "Danish Museum of Art & Design": {
+        "distance": 2164,
+        "time": 29.6
+      },
+      "Louisiana Museum of Modern Art": {
+        "distance": 0,
+        "time": 0.0
+      },
+      "Ny Carlsberg Glyptotek": {
+        "distance": 512,
+        "time": 7.1
+      },
+      "National Museum of Denmark": {
+        "distance": 624,
+        "time": 8.3
+      },
+      "Puk": {
+        "distance": 506,
+        "time": 6.8
+      },
+      "Broens Gadek\u00f8kken": {
+        "distance": 2127,
+        "time": 28.9
+      },
+      "Reffen": {
+        "distance": 4979,
+        "time": 67.5
+      },
+      "Brass Monkey": {
+        "distance": 1785,
+        "time": 25.1
+      },
+      "Boutique Lize": {
+        "distance": 1856,
+        "time": 26.4
+      },
+      "Mikkeller Bar & The Jane": {
+        "distance": 748,
+        "time": 10.1
+      },
+      "Jazzhouse": {
+        "distance": 829,
+        "time": 11.1
+      },
+      "Rust": {
+        "distance": 2141,
+        "time": 29.8
+      },
+      "Culture Box": {
+        "distance": 1633,
+        "time": 22.1
+      },
+      "Golden Days Festival": {
+        "distance": 438,
+        "time": 6.0
+      },
+      "Kulturnatten (Culture Night)": {
+        "distance": 1411,
+        "time": 18.9
+      },
+      "Copenhagen Light Festival": {
+        "distance": 1481,
+        "time": 20.2
+      },
+      "Copenhagen Opera Festival": {
+        "distance": 1303,
+        "time": 18.1
+      },
+      "Christmas in Tivoli": {
+        "distance": 512,
+        "time": 7.2
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "trip-agent"
+version = "0.1.0"
+description = "Multi-Agent Trip Planner using LangChain, LangGraph, and Pydantic"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.24"
+langchain-core = "^0.3.56"
+langchain-openai = "^0.3.15"
+langchain-anthropic = "^0.3.12"
+langchain-community = "^0.3.23"
+langgraph = "^0.4.1"
+langsmith = "^0.1.38"
+pydantic = "^2.7.1"
+fastapi = "^0.110.0"
+uvicorn = "^0.29.0"
+streamlit = "^1.36.0"
+folium = "^0.15.1"
+python-dotenv = "^1.0.1"
+chromadb = "^0.4.24"
+pandas = "^2.2.2"
+streamlit-folium = "^0.18.0"
+pytest-asyncio = "^0.23.5"
+wikipedia = "^1.4.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.2"
+black = "^24.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "main:main"

@@ -1,0 +1,1 @@
+"""Pydantic models for the Trip Agent system."""
